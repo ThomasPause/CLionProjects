@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Binomialkoeffizient.dir/main.c.o CMakeFiles/Binomialkoeffizient.dir/binokoeffi.c.o  -o Binomialkoeffizient 

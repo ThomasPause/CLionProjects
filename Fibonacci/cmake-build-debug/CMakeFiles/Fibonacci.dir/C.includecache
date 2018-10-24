@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/CLionProjects/Fibonacci/fibonacci.c
+fibonacci.h
+/home/thomas/CLionProjects/Fibonacci/fibonacci.h
+
+/home/thomas/CLionProjects/Fibonacci/fibonacci.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/thomas/CLionProjects/Fibonacci/main.c
+fibonacci.h
+/home/thomas/CLionProjects/Fibonacci/fibonacci.h
+

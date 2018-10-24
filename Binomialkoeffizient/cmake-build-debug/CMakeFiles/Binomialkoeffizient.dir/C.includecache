@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/CLionProjects/Binomialkoeffizient/binokoeffi.c
+binokoeffi.h
+/home/thomas/CLionProjects/Binomialkoeffizient/binokoeffi.h
+
+/home/thomas/CLionProjects/Binomialkoeffizient/binokoeffi.h
+stdio.h
+-
+
+/home/thomas/CLionProjects/Binomialkoeffizient/main.c
+binokoeffi.h
+/home/thomas/CLionProjects/Binomialkoeffizient/binokoeffi.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Werror -Wall -pedantic -Wextra -std=c11 -lm -g   CMakeFiles/Nullstellen.dir/nullstellen.c.o  -o Nullstellen 

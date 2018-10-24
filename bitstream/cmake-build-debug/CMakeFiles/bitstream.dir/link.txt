@@ -1,0 +1,1 @@
+/usr/bin/cc  -Werror -Wall -pedantic -Wextra -std=c11 -lm -g   CMakeFiles/bitstream.dir/bitmain.c.o CMakeFiles/bitstream.dir/bitstream.c.o  -o bitstream 

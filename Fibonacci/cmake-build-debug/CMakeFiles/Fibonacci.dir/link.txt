@@ -1,0 +1,1 @@
+/usr/bin/cc  -Werror -Wall -pedantic -Wextra -std=c11 -g   CMakeFiles/Fibonacci.dir/main.c.o CMakeFiles/Fibonacci.dir/fibonacci.c.o  -o Fibonacci 

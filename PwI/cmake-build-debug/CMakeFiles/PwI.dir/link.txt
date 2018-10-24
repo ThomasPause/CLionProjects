@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PwI.dir/main.c.o  -o PwI 

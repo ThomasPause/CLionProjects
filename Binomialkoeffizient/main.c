@@ -5,7 +5,7 @@
 
 int main() {
 
-    const int n,k;
+    int n,k;
     printf("Programm zur Berechnung des Binomialkoeffizienten\n"
            "*************************************************\n"
            "Bitte n und k eingeben (getrennt durch Leerzeichen):\n");

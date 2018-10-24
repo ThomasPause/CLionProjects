@@ -1,0 +1,1 @@
+/usr/bin/cc  -Werror -Wall -pedantic -Wextra -std=c11 -lm -g   CMakeFiles/intArray.dir/arraymain.c.o CMakeFiles/intArray.dir/intarray.c.o  -o intArray 

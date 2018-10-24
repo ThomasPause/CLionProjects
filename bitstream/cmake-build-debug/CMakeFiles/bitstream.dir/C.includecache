@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/CLionProjects/bitstream/bitmain.c
+bitstream.h
+/home/thomas/CLionProjects/bitstream/bitstream.h
+
+/home/thomas/CLionProjects/bitstream/bitstream.c
+bitstream.h
+/home/thomas/CLionProjects/bitstream/bitstream.h
+
+/home/thomas/CLionProjects/bitstream/bitstream.h
+stdio.h
+-
+stdlib.h
+-
+
